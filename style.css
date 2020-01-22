@@ -1,0 +1,42 @@
+
+h1{
+    font-size: 60px;
+    color: blue;
+    
+}
+
+
+
+th{
+    text-align:right;
+}
+thead{
+    font-size:40px; 
+    color:white;
+    background-color: rgb(230, 84, 84);
+    text-align:center;
+    display: block;
+    
+}
+table{
+    height: 350px;
+    width : 350px;
+    text-align: center;
+    font-size: 33px;
+    border: 0.1px black solid; 
+    
+}
+
+tbody{
+    display:inline;
+}
+
+p{
+    display:inline;
+    background-color:black;
+    color: white;
+    font-size: 50px;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+}
