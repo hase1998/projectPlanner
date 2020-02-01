@@ -1,0 +1,60 @@
+
+h1{
+    font-size: 60px;
+    color: blue;
+    
+}
+
+#clock{
+    display:inline;
+    background-color:black;
+    color: white;
+    font-size: 50px;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+}
+
+th{
+    text-align:right;
+}
+thead{
+    font-size:40px; 
+    color:white;
+    background-color: rgb(230, 84, 84);
+    text-align:center;
+    display: block;
+    
+}
+td{
+    padding:7px;
+}
+table{
+    height: 350px;
+    width : 350px;
+    text-align: center;
+    font-size: 33px;
+    border: 0.1px black solid; 
+    
+}
+
+tbody{
+    display:inline;
+}
+
+
+
+#Checklist{
+    font-size: 30px;
+    position : fixed;
+    top: 250px;
+    right: 0px;
+    border: 1px rgb(169, 214, 231) solid;
+    background: rgb(197, 233, 114);
+
+}
+
+#etclist{
+    display : none;
+}
+
